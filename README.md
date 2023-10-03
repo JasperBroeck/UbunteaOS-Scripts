@@ -19,6 +19,12 @@ UbunteaOS Scripts provide the following customizations to your Ubuntu 23.04 inst
 - Installation of a unique cursor theme.
 - Setting a custom wallpaper.
 - Additional small tweaks and configurations for a better user experience.
+<details>
+<summary>Click to expand</summary>
+
+This is the content that can be toggled.
+
+</details>
 
 ## Prerequisites
 
