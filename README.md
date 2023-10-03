@@ -4,8 +4,8 @@
 Welcome to the UbunteaOS Scripts repository! This collection of scripts is designed to enhance your Ubuntu 23.04 installation by adding various customizations, applications, and visual tweaks. Please note that UbunteaOS is not a standalone Linux distribution but rather a set of scripts and configurations that enhance your standard Ubuntu 23.04 installation.
 
 ## Table of Contents
+- [Installation](#install)
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -25,13 +25,22 @@ UbunteaOS Scripts provide the following customizations to your Ubuntu 23.04 inst
 
 </details>
 
-## Prerequisites
+## Install
+### Prequisites
+- install Ubuntu 23.04
+   - I recommend to choose for a minimal install
+   - I will also recommend to NOT install additional driver
+   - INSTALL THE additional formats and things like that
+- Download the latest-release.zip
+   - Download the zip from github
+   - Unpack the zip file
+- Install the script
+   - Run the script, you can do this with the following command
+// bash
+chmod +x script.sh
 
-Before running the UbunteaOS Scripts, please ensure you have the following prerequisites:
-
-- An installed and up-to-date Ubuntu 23.04 operating system.
-- Internet connectivity to download additional packages and extensions during the script execution.
-- Administrative privileges (you might need to use `sudo` for some commands).
+// bash
+./script.sh
 
 ## Contributing
 
