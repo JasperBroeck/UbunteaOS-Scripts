@@ -43,6 +43,7 @@ UbunteaOS Scripts provide the following customizations to your Ubuntu 23.04 inst
       #installs the script
       ```
 **Note**: if you install the script this way, it is possible you need to press Y and Enter sometimes, just follow the terminal instructions.
+**Note**: when you install or run the script it is possible that some things are installed but not yet enabled, you can do all of this in the settings, gnome tweaks or gnome extensions application.
 
 ## Contributing
 
