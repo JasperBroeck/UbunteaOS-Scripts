@@ -8,6 +8,7 @@ Welcome to the UbunteaOS Scripts repository! This collection of scripts is desig
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [Releases](#releases)
 
 ## Features
 
@@ -24,6 +25,9 @@ UbunteaOS Scripts provide the following customizations to your Ubuntu 23.04 inst
 - 
 
 </details>
+
+## Releases
+The release codes are very straightforward, it is just the ubuntu release + "-v0.01/2/3/..." so for example the first release is called UbunteaOS-Scripts 23.04-v0.01 and the second one will be called 23.04-v0.02 for example. I just wanted to make this clear so no one downloads the wrong one and breaks their computer!
 
 ## Install
 - install Ubuntu 23.04
