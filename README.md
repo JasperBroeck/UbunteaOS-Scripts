@@ -2,6 +2,7 @@
 
 
 Welcome to the UbunteaOS Scripts repository! This collection of scripts is designed to enhance your Ubuntu 23.04 (and newer, im always working on keeping this as up-to-date as possible!) installation by adding various customizations, applications, and visual tweaks. Please note that UbunteaOS is not a standalone Linux distribution but rather a set of scripts and configurations that enhance your standard Ubuntu 23.04 installation.
+**It is possible that there will be an iso in the future, this is only an iso with a custom preseed file that makes it so the scripts run in postinstall.**
 
 ## Table of Contents
 - [Installation](#install)
