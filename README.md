@@ -43,7 +43,7 @@ UbunteaOS Scripts provide the following customizations to your Ubuntu 23.04 inst
       ./script.sh
       #installs the script
       ```
-**if you install the script this way, it is possible you need to press Y and Enter sometimes, just follow the terminal instructions**
+**Note**: if you install the script this way, it is possible you need to press Y and Enter sometimes, just follow the terminal instructions.
 
 ## Contributing
 
