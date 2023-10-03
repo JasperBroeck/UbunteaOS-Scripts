@@ -26,7 +26,6 @@ UbunteaOS Scripts provide the following customizations to your Ubuntu 23.04 inst
 </details>
 
 ## Install
-### Prequisites
 - install Ubuntu 23.04
    - I recommend to choose for a minimal install
    - I will also recommend to NOT install additional driver
