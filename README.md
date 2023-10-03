@@ -1,7 +1,7 @@
 # UbunteaOS-Scripts
 
 
-Welcome to the UbunteaOS Scripts repository! This collection of scripts is designed to enhance your Ubuntu 23.04 installation by adding various customizations, applications, and visual tweaks. Please note that UbunteaOS is not a standalone Linux distribution but rather a set of scripts and configurations that enhance your standard Ubuntu 23.04 installation.
+Welcome to the UbunteaOS Scripts repository! This collection of scripts is designed to enhance your Ubuntu 23.04 (and newer, im always working on keeping this as up-to-date as possible!) installation by adding various customizations, applications, and visual tweaks. Please note that UbunteaOS is not a standalone Linux distribution but rather a set of scripts and configurations that enhance your standard Ubuntu 23.04 installation.
 
 ## Table of Contents
 - [Installation](#install)
