@@ -1,7 +1,4 @@
 # UbunteaOS-Scripts
-## Intro
-I tried making my own Ubuntu based distro, this was way too hard for me so i tried to make a script to make all (or at least some) of my customizations instead of doing it in a distro form. This was a more achievable goal. Have Fun!!
-## Info
 
 ![UbunteaOS Logo](logo.png)
 
@@ -33,11 +30,13 @@ Before running the UbunteaOS Scripts, please ensure you have the following prere
 - Internet connectivity to download additional packages and extensions during the script execution.
 - Administrative privileges (you might need to use `sudo` for some commands).
 
-## Usage
+## Contributing
 
-To enhance your Ubuntu 23.04 installation with UbunteaOS customizations, follow these steps:
+We welcome contributions from the open-source community to enhance and expand the UbunteaOS Scripts. If you have ideas, bug fixes, or new customizations to add, please feel free to fork this repository, make your changes, and submit a pull request. Your contributions will help improve the Ubuntu experience for everyone.
 
-1. Clone this repository to your local system or download the script files.
+## License
 
-```bash
-git clone https://github.com/your-username/UbunteaOS-Scripts.git
+This project is licensed under the [GNU General Public License v3.0](LICENSE), which means you are free to use, modify, and distribute the scripts as long as you provide proper attribution and release any derivative work under the same license. See the [LICENSE](LICENSE)
+ file for more details.
+
+Enjoy your customized Ubuntu 23.04 experience with UbunteaOS Scripts! If you have any questions or encounter issues, please don't hesitate to open an issue on this repository.
