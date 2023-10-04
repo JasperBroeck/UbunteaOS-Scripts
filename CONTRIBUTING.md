@@ -17,7 +17,7 @@ We welcome code contributions to enhance the functionality and features of [Your
 3. Implement your changes or additions in your branch.
 4. Test your changes thoroughly to ensure they do not introduce any new issues.
 5. Document any new features or changes in the script's comments or in the README.md file.
-6. Make a pull request to the [main repository](https://github.com/superwinkel/UbunteaOS-Scripts/main).
+6. Make a pull request to the [main repository](https://github.com/superwinkel/UbunteaOS-Scripts/).
 7. Your pull request will be reviewed, and any necessary feedback will be provided.
 
 ### Contact Us
